@@ -34,7 +34,7 @@ Stefaan Verhulst
 
 * If you don't share any data,but only the insights from that data? Not solved. There is room for trusted organizations that audit the insights from data without disclosing the data.
 
-#### [Data Stewardship](https://medium.com/data-stewards-network) - Teh role of the chief data steward
+#### [Data Stewardship](https://medium.com/data-stewards-network) - The role of the chief data steward
 
 * Make data collaboratives: sustainable, sistematic, and responsible - a gobernance model
 
@@ -44,13 +44,15 @@ Stefaan Verhulst
 
 * Trying to go beyond prototypes and make data use for public policy sustainable. 
 
-* One way is to have a Data Stewards - a person within each organization that can connect with the data. Other functions: There is also a need to create the data marketplace + Build the community of practice
+* One way is to have a Data Stewards (in the interest of public interest) - a person within each organization that can connect with the data. Other functions: There is also a need to create the data marketplace + Build the community of practice
 
 * The Cambridge Analytica made it clear that even partnership with academia can turn into disaster. It's important to have data stewards to know who to partner with
 
 * The public sector can help making this work in the private sector in a self-regulatory framework by asking the private sector to make the private sector work on this (carrot/stick approach - the stick is the shadow of the public sector helping this happenning)
 
 * Secondary use debate: data was collected for one purpose but insight is usually extracted as a secondary use of that data. The use for secondary analyses is a case GDPR does not talk about. 
+
+* We already have chief data security officers. Now we would need to have the same need for data stewardship. National stats agencies are data stewards. There are connections to be made with them and a commmunity to build.
 
 Slides available upon request
 
@@ -60,3 +62,6 @@ Slides available upon request
 #### Data Sharing & Data Trusts
 
 Gefion Thuermer, Johanna Walker
+
+* Follows with the previous workshop, but independent. More practical. Success cases and tips for sharing data.
+
