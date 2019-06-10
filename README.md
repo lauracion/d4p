@@ -82,6 +82,34 @@ Gefion Thuermer, Johanna Walker
 
 
 * Case: Greiner Packaging International3. Ended up matched with five innovators who are now working on advancing different areas of thier business. They had a person dedicated to advance data driven innovation - we could say it is a data steward
+
+
 #### Session 2: Data sharing and trust
+
+Kieron O'Hara, Jack Springman
+
+* Results? Often, you look down the water and you just see the risks (i.e. sharks)
+
+* Ethical data stewardship: regulation is not enough (...) Institutions for trust (e.g., Data trusts/data sharing clubs)
+
+##### Data mobility infrastructure
+
+* The data portability growth oportunity for the UK economy - 2018 report: 
+
+* Advantages: economic benefits, accelerate innovation, healthier markets, improve productivity
+
+* Issues: consumer services and applications, adaptives regulation, infrastructure, and two more
+
+* Personal data mobility sandbox. BT, British Gas, Barclays BBC, fb. With *observers*: Centre for data ethics and innovations, consumers international dcms, ico, university of southampton. The purpose is to demonstrate safe data sharing for people to share their personal data.
+
+* GDPR does not make it easy to share the data/data mobility between individuals and different institutions.
+
+* From data portability do data mobility.A vision: using a data facilitator like "dgme" with apis from different companies (e.g., fb, spotify, etc) - individuals import/export their data from the different companies in a safe and ethical environment. it was important to test the user experience about perception of  security and privacy. 
+
+* What do people/companies get in return? Value was discussed with data importers/provided.
+
+* Report can be found at the [Ctrl-Shift website](http://www.ctrl-shift.co.uk)
+
+* It has to be safe and valuable to share data.
 
 #### Session 3: Increasing access to data while retaining trust
