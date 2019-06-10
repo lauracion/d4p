@@ -30,6 +30,10 @@ Stefaan Verhulst
 
 * There are also ethical considerations
 
+* With private sector it is helpful to ask for data in a customer-centric framework than in a data-centric way. Customer-centric: what questions are you interested in answering? why can't you? the data are not available. Hey, your customer needs these data.
+
+* If you don't share any data,but only the insights from that data? Not solved. There is room for trusted organizations that audit the insights from data without disclosing the data.
+
 Slides will be shared.
 
 ### Afternoon
