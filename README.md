@@ -113,3 +113,15 @@ Kieron O'Hara, Jack Springman
 * It has to be safe and valuable to share data.
 
 #### Session 3: Increasing access to data while retaining trust
+
+Jack Hardinges, Peter Wells, [Open Data Institute](http://theodi.org)
+
+* ODI mission: works with companies andgovernments to build an open trusworthy data ecosystem.
+
+* ODI vision: we want a world where data works for evyerone. Non-naive idealists. Long-term goal
+
+* ODI works through the complete data sprectrum: smal/medium/(meaningless) big data - public, commercial, etc
+
+* Data is infrastructure. We see it more when it is not working. It should be more boring than it usually is.
+
+* Trust and trustworthiness is highly context-dependent.
