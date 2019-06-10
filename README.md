@@ -65,3 +65,13 @@ Gefion Thuermer, Johanna Walker
 
 * Follows with the previous workshop, but independent. More practical. Success cases and tips for sharing data.
 
+#### Session 1: Why is data sharing important? - Johanna Walker
+
+* Data sharing economy. Motivation: "data economy may increase to 739 billion euros by 2020"
+
+* "Data sharing club" (yes, quite similar to belonging to a club where you pay a bit to belong, entrants may get in for free, if the fullfil some reqs) vs open/close platforms for sharing data
+
+* Challenges to solve. Incentives, broader than industry sectors, conditions, match supply and demand, trust.
+#### Session 2: Data sharing and trust
+
+#### Session 3: Increasing access to data while retaining trust
