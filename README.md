@@ -18,6 +18,13 @@ Stefaan Verhulst
 
 * Many ways to run a collaborative depending on several variables (openness, timing, type of work, focus, etc)
 
+* Are there any evidence of what works better withing the spectrum of the conditionality matrix of open-restrictive/different levels of collaboratives? It varies on case-by-case scenarios. There is a paper in the making for guiding what strategy is better depending on the variables (e.g., scope, access, data, collaboration) you have for a project
+
+* Big challenge to any collaborative sustainable
+
+* A lot of data important for the public resides in the private sector. Reciprocity from the public sector is the main incentive for corporations to share some of the data. There is also reputation, doing research, social responsability, rataining of talent (data scientists in industry may be more motivated to stay in a company where they have access to data for the public good such as, for example, UNICEF)
+
+* There is a large cultural challenge between herding data and sharing it. "Often people do not get promoted for sharing data, but because nothing bad happenned with the data"
 
 Slides will be shared.
 
