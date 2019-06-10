@@ -138,4 +138,12 @@ Jack Hardinges, Peter Wells, [Open Data Institute](http://theodi.org)
 
 * Several related examples: genomics england access commitee, office for nationals tats secure research service, NHS health research authority confidentiality advisory group, metadac, etc, etc, etc.
 
-* 
+* Pilot projects: Civic (data about electric behicle for instance), food waste (and sales data), illegal wildlife trade (image and acoustic data). some of them had personal identification data. Multi-disciplinary team over three months.
+
+* Challenges in increasing access to data: lack of value for business, concerns about reputation impact, las of resources to share data, who owns and has rights on the data, lack of standards, limited dta literacy and skills.
+
+* Challenges in building data trusts: what is a data trust?, determining independence, financial sustainability, decision making open participatory and deliberative; lack of ecosystem maturity; how to demonstrate trustworthiness; use of dta trusts to steward personal data, avoiding technology/first solucions (poniendo el caballo adelante del carro?)
+
+* Building data trusts: there is a 30-page guide on how to get this going online
+
+Slides will be sent
