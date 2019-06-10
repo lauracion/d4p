@@ -8,7 +8,7 @@ This repo contains my notes for the conference [Data for Policy](http://dataforp
 
 #### Data Stewardship in Action: Workshop on Making Data Collaboratives Systematic, Sustainable and Responsible
 
-Stefaan Verhulst - govlab
+Stefaan Verhulst
 
 #### [Data Collaboratives](http://datacollaboratives.org/)
 
@@ -48,6 +48,15 @@ Stefaan Verhulst - govlab
 
 * The Cambridge Analytica made it clear that even partnership with academia can turn into disaster. It's important to have data stewards to know who to partner with
 
+* The public sector can help making this work in the private sector in a self-regulatory framework by asking the private sector to make the private sector work on this (carrot/stick approach - the stick is the shadow of the public sector helping this happenning)
+
+* Secondary use debate: data was collected for one purpose but insight is usually extracted as a secondary use of that data. The use for secondary analyses is a case GDPR does not talk about. 
+
 Slides available upon request
 
 ### Afternoon
+
+
+#### Data Sharing & Data Trusts
+
+Gefion Thuermer, Johanna Walker
