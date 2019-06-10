@@ -125,3 +125,17 @@ Jack Hardinges, Peter Wells, [Open Data Institute](http://theodi.org)
 * Data is infrastructure. We see it more when it is not working. It should be more boring than it usually is.
 
 * Trust and trustworthiness is highly context-dependent.
+
+* Which data access models give people increased access to data while retaining trust?
+
+* Trust : A general definition of rust (Kieron O'Hara, 2012). BURRITOS model. *B*etter *U*nderstanding the *R*esponsibilities and *R*ationales *I*nforming *T*rustworthy *O*ptions for *S*haring, but a better way to talk about taxonnomy is "The map of data access" which will be published in about three weeks with a travel guide over the map
+
+* For example, some areas of the map require a lot more exploration than others. For example the island Collaborator in the map. If you are in a given part of the map that others explored, the guide will give you hints on what worked for others and what didn't work at a practical level.
+
+* A federation of data explorers? UoS, Datapitch, Govlab, data stweards, big firms, governments, etc
+
+* Case study in the trust island in the map. Data trust as a legal structure that provides independente stewardship of data. The trustess/data stewards of the data trust take on responsibility for how data is used and shared, take liabilities.
+
+* Several related examples: genomics england access commitee, office for nationals tats secure research service, NHS health research authority confidentiality advisory group, metadac, etc, etc, etc.
+
+* 
