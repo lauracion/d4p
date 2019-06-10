@@ -71,7 +71,17 @@ Gefion Thuermer, Johanna Walker
 
 * "Data sharing club" (yes, quite similar to belonging to a club where you pay a bit to belong, entrants may get in for free, if the fullfil some reqs) vs open/close platforms for sharing data
 
-* Challenges to solve. Incentives, broader than industry sectors, conditions, match supply and demand, trust.
+* Challenges to solve. Incentives, broader than industry sectors, conditions, match supply and demand, trust (to not abuse your data and behave responsibly with your data).
+
+* Ecosystem examples. Data sharing incubators and caccelerators. Intearnational data spaces; BDVA-PPP I - space; ODI
+
+* [Data Pitch](http://www.datapitch.eu) - a data sharing case study. European open, data/driven innovation program. Innovators, enterpeneurs, data providers, ...
+
+
+* Data provider challenges: it took a year to get data providers involved, identify the data and problem to include in the pitch. 8 months to define challenge and review legal aspects of data. 4 months to agree on a contract. 2 months to obtain metadata sample
+
+
+* Case: Greiner Packaging International3. Ended up matched with five innovators who are now working on advancing different areas of thier business. They had a person dedicated to advance data driven innovation - we could say it is a data steward
 #### Session 2: Data sharing and trust
 
 #### Session 3: Increasing access to data while retaining trust
