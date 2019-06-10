@@ -26,6 +26,10 @@ Stefaan Verhulst
 
 * There is a large cultural challenge between herding data and sharing it. "Often people do not get promoted for sharing data, but because nothing bad happenned with the data"
 
+* Does data sharing have to be free? We need to have the hard convo about financial sustainability
+
+* There are also ethical considerations
+
 Slides will be shared.
 
 ### Afternoon
