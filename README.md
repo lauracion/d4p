@@ -244,7 +244,53 @@ Challenges of AI:
 * privacy and dnager of data misuse ( GDPR, perceptions of the problem(
 * Digital literacy / educaiton in digital literacy often lacking. it varies from country to country. even in Germany.
 
-* Facke sand manipulations. deepfakes / software to generate or edit video material creating a fake video of a politician speech. DeepMasterPrints, generate fake finger prints to unlock devices. Facke social media bots. Prventing crime> automated blackmailing, intelligent hacking attacks
+* Fakes and manipulations. deepfakes / software to generate or edit video material creating a fake video of a politician speech. DeepMasterPrints, generate fake finger prints to unlock devices. Facke social media bots. Prventing crime> automated blackmailing, intelligent hacking attacks
+
+* Specific examples> tritter blocks accounts based on algos due to some keywords. it was unclocked the next day. Hiring softwared used by Amazon 2014/2017: discrimination aginst women. Airbnb smart pricing algos may widen ethnic gap
+
+* Social challenges> may devalue human skills. reducing human responsibility, ....
+
+* Public opinion> what do people think about AI? 41% support in the US, 22% strongly oppose (Zhang/dafoe, US, 2019)
+
+* Most prioritized governmental challenges> ai assisted surveillance violating privacy and civil liberties, to spread fake online content, cyber attacks, protection of data privacy. Important challenges for over 50% of raters and for the next 10 years in the US
+
+* Most trusted> university researchers and the US military. Least trusted is Facebook. No orgs for which the average respondent had @a fair amount of confidence" Conclusion: We need more trust
+
+* Trustworthy AI. Development, deployment and use should resjpect fundamental rights and applicable regulation, as well as core principles and values ensuring an ethical purpose. should be technically robust and reliable. foster publics trust in AI, society needs a widely accesible and reliable mechanism of redress for harms inflicted.
+
+* Initiatives proposing principles on AI (OECD, May 2019 adopted). AI should be fair, transparent and accountable. IEEEE Thically aligned design. General principles human rights, well being, data agency, effectiveneess, transparency, acountabilty, awareness of misuse, competence.  Ethics certificationi program for autnonomous and intelligent systems (ECPAIS). But "of course China will take over and this is over" FALSE. There are regulations about rights in China as of 2019. Cybersecutrity Law, soncumer rights protection act, 9th ammendment of criminal law. Privacy is not a concept in China. Decisions by National people's congress. No unified frameork yet. The concepts are in the agenda and evolving as generations evolve.
+
+* Further exampels. UK digital competitino expert panel. San Francisco Board of Supervisors ban of facila recognition by police. German BaFin. France Canada Panel on AI
+
+* GDPR. Right to the protection fo personal data is not an absolute right. right to data portability allowing people to freely trade tehir data. World wide this varies, Europe could learn from each other.
+
+* AI4People European initiative will release a paper in a month with ethics principles. Beneficence, non/maleficence, autonomy , justice, explicability - no new principles, but very important. Human centered approach AI4People.
+
+* Technical methods to implement the core principles for AI. documenting decisons, explanation, traceability and auditability. Non tehcnical methods> regulation, standardization, accountability governance, codes of conduct, education and awareness, etc
+
+* Second European approach First Ethics committee for autonomous driving. Germany. The liability when the car drives alone it is for the company tha manufactures the car and runs the algos. In the event of unavoidable accidente situaations, any distinction based on personal features is strictly prohibited. It is also prohibitd to offset victims against one another. General programming to reduc the number of personal injuries may be justitiable. Those partiers involved in the generation of mobility risks must not sacrifice non/involved partiers. Rules 9
+
+* The autonomous driving example has some lessons to teach us. Autonomous driving rules need to get standardized across countries. 
+
+* A business ethics and regulation perspective. How ethics and regulation fit into a competitive market for AI? Conditions of competiions> sufficient among tech companies? direct competition> mobile devices, hunt of user data,. Indirectly> google vs microsoft and ibm in the run for bigdata analysis. alternatives to amazon. is there real competition there?
+
+* Uber/Lyft. Differing perceptions in parts of Europe and other regions. Public discussion often uses ethical arguments (working conditions, wage level, tax evacion of drivers) - is it just cab drivers lobbying against?
+
+* REleasing an autonomous car before competitiros even if driving software has not been adequately tested. Bending data protection rules in order to gather more data than competitors. Being sloppy with data security in order to get an advantage.
+
+* Creating shared value (Porter and Kramer 2011) this is sometimes better than regulation. having policies and operrating practices tha enhance the competitiveness of a company while advancing the economic and social conditions at the same times within the community where it operates.
+
+* Doing good by doing well. Long/term calculations needed. consider systematically the interests of others who may be relevant for the company's future. reputation and penalty reduction through risk management throug early warning.
+
+* actively taking on ethical responsibilty without changes in law has become bothe a necessity and an advantae in competition for many companies in raising profits, in innovation capability, in better risk management. several references.
+
+* Jean Tirole Nobel Prize 2014 on digital markets and regulation. We neeed a participative antitrust inwhich the industry or other parties propose possible regulation, and the antitrust authorities respond to it (Tirole 2018). 
+
+* Political and scientific initiatives> expert groups IEEE, AI HLEG, AI4People
+
+* Trust in AI is key. more research, more data to assess algos impact, rething the human/machine collaboration instead of AI replacin humnas, guidelines and frameworks for ethical AI. Tools for companines to follow ethical frameworks and establish tructs. Focus on meeting societal acceptance.
+
+* 
 
 
 
