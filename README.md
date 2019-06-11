@@ -214,4 +214,42 @@ Empowering people through informed consent. Informed consent and trust / Tessa D
 
 
 
+## Afternooon plenary
+
+* EThics in AI by TutiIEAI
+
+Opportunities of AI / telefmedicne. Rural depopulation and hecne rural services. uneven distribution of physicinas
+
+* Care robots: amjor problem of ageing society. shortage on qualified healthcare personnel, solution bobots specifically designed for care tasks. Even more humanes? studies show that it is more humane to have robots assisting them in daily routine. it's better to have human beings intearcting in other ways.
+
+* AI / big data. improved decisions based on more and better info. oslo reduced street lighting energy soncumption by 62% using big data. predictive crime mapping
+
+* IoT: optimazation of al physical en for cmfort and productivity. reduction of costs, time gain. improved decsion making> do human beings really make better decisions on averac?
+
+* Smart grid: major problem, globally increasing energy demand.
+
+* autonomous driving: ethical problem of cards> high falttality rates. 90/95% of car accidents caused by humann error. autnonomous cars as solution to reduce car accidents. in germany this would mean ultimately saving around 3000 lives /year
+
+* Examples from health care sector> paradigm shift in healthcare, through increasing availability of data and fast advancemente of analytics techniques. 
+* strokes . ai applications in cardiology for early detection, teratment and outcome prediction
+
+* Cancer: identify precancerous statesges. NCI, 2019 AI better at identifying precancer than human expert reviewer, AI by goog> LYNA
+
+* Reproductive health education> chatbot in Pakistan for women to ask questions regarding reproductive health. a means to address a taboo subject and empowerrment women in Pakistan. has helped in emergency cases to get medicl aattention
+
+Challenges of AI:
+
+* technical challenges. dependence on the accuracy, danger of technical errors. Loss of onces autonomous decisons.
+* increased vulnerability against cyber attacks, danger of cyber wars
+* privacy and dnager of data misuse ( GDPR, perceptions of the problem(
+* Digital literacy / educaiton in digital literacy often lacking. it varies from country to country. even in Germany.
+
+* Facke sand manipulations. deepfakes / software to generate or edit video material creating a fake video of a politician speech. DeepMasterPrints, generate fake finger prints to unlock devices. Facke social media bots. Prventing crime> automated blackmailing, intelligent hacking attacks
+
+
+
+
+))
+
+
 
