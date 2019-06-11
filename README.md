@@ -423,11 +423,15 @@ Royal Society, UK (@RoyalSociety).
 
 * tensions: benefits and risks in data use. 4 tensions: making use of data vs respecting spheres of privacy. providing ways to exercise reasonable control over data vs encouraging data sharing for private and public benefit. incentivising innovative uses of data vs ensuring that such data can be traded and transferred in mutually beneficial ways. promoting and distributing the benefits of data use fairly across society vs ensuring acceptable levels of risk for individuals and communities.
 
-* Role of PETs in addressing tensions. there was no tech that could address and manage all of these tensions. it's quite context dependent. many combined may be needed. More in the report. there may be differnt stages of the process and reasons of why how to manage these tensions. 5 different techs (incomplete, but these are the one reported because they seem most interested coming from  different fields like crypto people or stats people, etc). Addressing tension 2: personal data stores, apps that provide individuals with access and control over the data they generate, covered by the first talk in this session. Tension 1 + 2: homomorphic encryption and trusted execution environments (secure hardware). Tension 3: secure multi party computation> computing on combined data with no need for a trusted third party nor revealing own private input.
+* Role of PETs in addressing tensions. there was no tech that could address and manage all of these tensions. it's quite context dependent. many combined may be needed. More in the report. there may be differnt stages of the process and reasons of why how to manage these tensions. 5 different techs (incomplete, but these are the one reported because they seem most interested coming from  different fields like crypto people or stats people, etc). Addressing tension 2: personal data stores, apps that provide individuals with access and control over the data they generate, covered by the first talk in this session. Tension 1 + 2: homomorphic encryption and trusted execution environments (secure hardware). Tension 3: secure multi party computation> computing on combined data with no need for a trusted third party nor revealing own private input. Tension 1 +4> differential privacy> releasing the output of an anlysis without revealing if a specific individual/entity is in the input - math definition of privacy, allows you to reasoned mathematically on how much privacy you want at different levels.
 
-* Limitations: current technical constraints, and general limits in PETs deliverings ethical use of data
+* a lot more use cases in the report.
 
-* Enabling appropriate uptake and development of PETs
+* Limitations: current technical constraints, and general limits in PETs deliverings ethical use of data. There costs using PETs. different levels of readiness.
+
+* Enabling appropriate uptake and development of PETs. How far can PETs deliver ethical use of data? Thc is not the silver bullet. setting a privacy budget is a governance decision. the time and energy costs of PETs encourage extra scrutiny. should we be collectin or using the data at all_ Many ethical questions arise beyond privacy risks (eg, is the purpose of data use socially beneficial?, is it fair?, has the data been collect appropriately?)
+
+* Enabling appropriate uptake and development of PETS. The RSS identified three areas. See the report for more.
 
 
 Wednesday, 12 June 2019
