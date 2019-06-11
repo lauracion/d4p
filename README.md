@@ -294,7 +294,66 @@ Challenges of AI:
 
 * There is a lot of nuance that goes into privacy and the use of data. It is not the same that the gob uses, for example, Alexa data for a service than to solve a crime. We may get to Alexa data to solve the crime, but not otherwise. We need to be more creative and think hard about nuances.
 
+* Algo transparency and the interplay with intellectual property? Transparency is the wrong concept. Making the code transparent may not help. Most expert groups say that we need to get to something like explicability instead of transparency. Transparency does not achieve much. We would need to understand why the algo came up with a given decision, and that usually cant be done just with the code. Explicability (to be designed) is a better concept than transparency.
 
+
+Session 2d (MQ 101): Data-Driven Policy
+Chair: Jack Tindale (@JackTindale), Policy Connect (@Policy_Connect)
+
+"Policy Priority Inference: A Computational Approach for the Discovery, Evaluation and Prescription of Development Strategies"; Omar Guerrero*
+(@guerrero_oa) - UCL & The Alan Turing Institute, UK (@turinginst), and Gonzalo Castañeda - CIDE, Mexico.
+
+* How to reach the sustainable dev goals? how do you prioritize your resources? Tool for the gobs to reach certain indicators. How do we do it? it can be very complex.
+
+* Mental model behind the tool. Policy prioritisation. Gob wants to ameliorate education so outcomes improve, but you can also have plain corruption. It's never 1 to 1. There are inputs (resources) and outcomes. we will focus only on outcomes, not enough data for the inputs yet. But of course there are interactions of ed with health and infrastructre as transportation. So the Ed can improve due to ogther public policies which obscure the one policy we want to study in Ed. and the network is huge.
+
+* Tool, agent-driven. time series. with development indicators (country specific), network (socioecon context), development goals (multidim targets) <- inputs.
+
+* Example. Retrospective policy priorities + Prospective policy priorities - study published some years ago. Casta#eda, chavez and guerrero 2018. Priorities change if you want to imitate other countries, well... context matter - the paper shows how.
+
+* quantifying policy coherence. are gov policy priorites coherent with its goals? -1 inchoerent vs 1 coherent. Guerrero & Casta#eda 2018, the index for Mexico looks incoherent, but has success cases. The index works in real world.
+
+turing.ac.uk/research/research-projects/policy-priority-inference
+
+Session 2b (G01): Sustainability 1
+Chair: Derek Wyatt, UK
+
+[43] "Using data for risk management policy – introducing the data-oriented approach into policy-making in Japan on food safety, drug safety, earthquake
+disaster prevention, and climate change"; Yasushi Sato* - Niigata University, Keiko Matsuo - Japan Science and Technology Agency, and Noel Kikuchi - National Graduate Institute for Policy Studies.
+
+* Scientific advice was important. 
+
+* Why data-oriented approach underutilized in risk managemente policy making? data/oriented approach vs mechanism/oriented approach. There is not a dichotomy but they are different.
+
+*  Examples from other fields of data-oriented approaches. Food safety QSAR quantitative structure activity relationsips. Drug safety,real world data and pharmacometrics. Earthquake, statittical seismology and various geological data. Climate change> mechanism oriented and data oriented approaches are effectively used in complementary ways obtaining local scale climate from global models and local policy making.
+
+* Data availability and model dependability (challenges) different depending on each field. Regulation of vital risks such as drug safety and food safety is high in imperative for certitude and sensitiviy for litigation and high for the data availability and model dependability. Climate change and earthquake, responses to chronic risks are both low in these dimensions.
+
+* More interdisciplinary is being observed in the data/oriented approach in climate change.
+
+* Conclusions. each policy field can learn from other fileds in endeavoring to incorporate the data-oriented approach into risk management policy- making. In the field of climate change, the data oriented and mech oriented approaches have been integrated in relatively matured ways. as the data oriented aproach is incorporated into the process of policy making, mechanisms for collaboration among diverse types of scientistis and policy makers as well as communication with the public, is needed.
+
+
+
+
+[122] "WHO’s transformation changing generation and use of health data to drive
+impact of policy actions"; Doo Hee You*, Tina Purnat and Samira Asma - World
+Health Organization, Switzerland (@WHO).
+
+
+
+Session 3a (JBR): Privacy 1
+Chair: Anil Bharath, Imperial College London (@imperialcollege)
+
+"Data protection issues in cross-border interoperability of EHRs systems withing the European Union"; Giorgia Bincoletto (@GiorgiaBinco) - University of
+Bologna and University of Luxembourg, Italy (@uni_lu_FDEF & @unibomagazine).
+
+
+[85] "Towards Citizens’ Control Over Data? Exploring Contradictory Trends in the Emerging Regulatory Environment of Personal Data"; Arne Hintz (@arne_hz) - Cardiff University, UK (@cardiffuni).
+
+
+[98] “The role of technology in governance: the example of Privacy Enhancing Technologies”; Natasha McCarthy* (@ntshmccrthy) and Franck Fourniol - The
+Royal Society, UK (@RoyalSociety).
 
 
 
