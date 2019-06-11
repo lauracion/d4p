@@ -210,6 +210,8 @@ Empowering people through informed consent. Informed consent and trust / Tessa D
 
 * Future: Which thir partier count as trusted third parties? how granular should trust cues be? (pass or fails, ribbon diagrams), which users want to be more informed and which consumers want a simpel trust
 
+* Question: you do all this work and then what? Tessa: trying to work with the companies so they don't work against their customers. Fabrizio: There are some international fori. Connecting the policy makers with higher up politicians "watch dogs" can be a solution to this.
+
 
 
 
