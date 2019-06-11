@@ -366,6 +366,17 @@ What has been donw by WHO in the flow of the data process to make the max impact
 * What incentives are you giving to self suficient countries? no simple answer.
 
 
+Session 3c (G02): Data Practices, Lessons and Challenges
+Chair: Bilal Gokpinar, University College London
+
+[24] "Managing Personalization-Privacy Paradox of Digital Services: A Systematic Literature Review"; Ming-Wei Hsu*, Glenn Parry, Alex Kharlamov - University of the West England, UK.
+
+* tensions arise when using data for personalisation. privay, control over access to personal info. privacy paradox, people say they are concerned about privacy but in practice they share all of their data for free. personalisation, better customer experience.
+
+* how do we find balance_ personalisation/privacy pardox. firms need personal info to provide personalised services, consumers express that they have privacy concerns, in seeking to create a personalised service to gain customers, firms may lose customers
+
+* Systematic literature review to approach this paradox based on 45 papers. See paper submitted to d4p for details on methods and fine description of findings.
+
 
 Session 3a (JBR): Privacy 1
 Chair: Anil Bharath, Imperial College London (@imperialcollege)
@@ -373,8 +384,22 @@ Chair: Anil Bharath, Imperial College London (@imperialcollege)
 "Data protection issues in cross-border interoperability of EHRs systems withing the European Union"; Giorgia Bincoletto (@GiorgiaBinco) - University of
 Bologna and University of Luxembourg, Italy (@uni_lu_FDEF & @unibomagazine).
 
+* EHR electronic health record. 
+
+1. policy context. 2011 directive - patients rights in cross border healthcare. EU policies for the digital single market goes to the transformation of health and care policy. areas of action> enabling EU citizens to access and share their health data securely across member states. barrier> interoperability. 
+
+2. cross border interoperability of ehr systems. what is it? hability of a system A and B communicate and share info wo any effort for all generated data (eg clinical data, med history, patient details, labs, prescriptions). it implies many levels> technical, semantic, organizational and legal levels. urgent need of open exchange formats and hoarmonised standrds on health data quality and reliability privacy and security.
+
+3. new recs of the EU commission released freb 2019. European electronic health record exchange format. principles for access and the exchange, set of technical specs and process and best practices. high importance to privacy and data protection concerns, for instance principles of data protection adn confidentiality and a citizen centric approach by design. The evolution of this is in private hands of those that develp EHR systems
+
+4. data protection concerns and obligations.  huge amount of data and multiple processing. special category of data, health data. various data protection principles and rights. organisational level concerns and obligations> different data controllers and processors, legal grounds and explicit consent, info to the patient, the purpose limitation of the further processing, time accuracy principle, documentation and accountabiliity. technical level> data minimisation adn pseudonymisation, time lmimitations to the storage, the access mechanisms, the security tools and standars, data protection by design and by default
+
+5. The progress to achieve interoperability stays with each state, but it is a priority in the dev of the national and regional EHR. EHR systems should be designed ex ante to ensure complicance with data protection rules. 
+
 
 [85] "Towards Citizens’ Control Over Data? Exploring Contradictory Trends in the Emerging Regulatory Environment of Personal Data"; Arne Hintz (@arne_hz) - Cardiff University, UK (@cardiffuni).
+
+
 
 
 [98] “The role of technology in governance: the example of Privacy Enhancing Technologies”; Natasha McCarthy* (@ntshmccrthy) and Franck Fourniol - The
@@ -382,3 +407,20 @@ Royal Society, UK (@RoyalSociety).
 
 
 
+Wednesday, 12 June 2019
+
+09:30 – 10:30 Parallel Session 4
+Session 4a (JBR): Hands-on-Data: Artificial intelligence for the design of public policy in
+Latin America
+Chair: Tom Smith (@_datasmith), Office for National Statistics, UK (@DataSciCampus)
+[80a] "Hands-on-Data: Description, lessons learned, and future directions of a
+speedy alternative to integrate artificial intelligence into the design of public
+policies in Latin America"; Lucila Berniell* (@luberniell), Laura Acion
+(@_lacion_) and Walter Sosa-Escudero (@wsosaescudero) - CAF, CONICET-UBA
+and Fundación Sadosky, CONICET-UdeSA, Argentina (@funsadosky &
+@institcalculo).
+[80b] "Computing accessibility metrics for Argentina", Carlos Sarraute
+(@ch4rleston) - Grandata, Argentina (@GrandataLabs).
+[80c] "Using data science to improve public transport in the city of Córdoba
+(Argentina)"; Andres Vazquez (@avdata99) - Municipality of Cordoba,
+Information Systems and Innovation, Argentina (@MuniCba).
