@@ -147,3 +147,69 @@ Jack Hardinges, Peter Wells, [Open Data Institute](http://theodi.org)
 * Building data trusts: there is a 30-page guide on how to get this going online
 
 Slides will be sent
+
+## Tuesday: Conference
+
+### Morning
+
+#### Ethics 
+
+Automating with Caution - Fabrizio, MVD, Uruguay
+
+* People in the global south have stuff to say too - speaker biases
+
+* AI in the public realm looks like a rich market with a lot of options. Not quite clear about some definitions, less for the lay man/woman in LatAm. Same happenned with Open Data
+
+* AI: what's in a word. A simple way to consider it a constellation of methods incluidng ML, NLP, perception and reasoning. Some kind of automation.
+
+* AI in practice: automation of processess, chatbosts in public services, detection of salient behaviours, / fraud, mapping territory, prediction of population behaviour in disasters or events
+
+* What do we mean by bad practice - we are starting to see the people behind the algorithms. It may not be even sofisticated algos. Many times are people with low wages doing the work. This can lead to failure cases (e.g., cutting healthcare)
+
+* What's so special about public sector.  State has to be accountable and fllow the law and abide by human rights and legal principles. The state must be able to explain its decisions. Official info that has leagla consequences on individuals. It's not just advertising... risks are a lot higher.
+
+* Examples in the field - MVD example for predicting crime. They started using an algo dev in LA, USA and ended the agreement with the US company because they couldn't audit the algo. They developed their own algo in Uruguay now.
+
+* Fail case in Argentina: Salta's case for predicting teen pregnancy. Identifying mostly poor women. A failure at a lot of levels. The experiment was dismissed thanks to the public buzz and open discussion about it.
+
+* Success case in Argentina: Dymaxion Labs to identify the use of the territory using satellite images.
+
+* Address five dimensions: need, infrastructure, ethical and regulatory framework, accountability, and evaluation. We need to discuss about all of this. We shouldn't be experimenting with humans without these rules being developped yet.
+
+* Map showing that the Global South is mainly not exactly ready to move this forward. A lot of discussion must happenned.
+
+* With low resources, we must prioritize. There is a human right framework that is fairly good, but not applied all the time.
+
+* Automating with caution. We should think these things for the beguinning. 
+
+Empowering people through informed consent. Informed consent and trust / Tessa Darbyshire, et al Oxford, UK
+
+*  None in London has ever read the term and conditions. Privacy policies are aoften inaccesibily complex, hardly ever read and then rarely understood by most users. CAn you consider this consent?
+
+* How informed is a user when thy agree to a privacy policy? Come on, we did gave you a privacy policy...
+
+* Developpping tha empowers userst to better grant informed consent
+
+* Stakeholders: legislators and researchers, service providers, users. Making this usable is very difficult.
+
+* MozFest findings / open source. Biased due to their knowledge. Enforcemnt from a trusted third party, empowering users to maker their own decisions. Users are super lazy, but if yit adds extra time to your day, we don't care. But there is  a lot fo things people care about when they look these agreements closely. They find agreements excessive, vague and exclusive. Comapnies don't know they are doing this.
+
+* Challenge for organizsations. Crystal clear from legal perspective to something that means something to participants.
+
+* New Trust model: base/up. Transparency, inclusion, dialogue. the last part is the hardest.
+
+* Opportunities. public commitement to privacy, opportunities for incluison, use plain English, challenge the business internally to work more with the open source community, make privacy feel like an interaction.
+
+* Tools from open sources. Usableprivacy.org. terms of service didn't read. many did work. GTrusted third party: ToS / stickers, automatic tagging using machine learning. 
+
+* Ploisis a viz tool to understanding this.
+
+* Parsing and summarizing. privacy policies is specialised and not understandable. Wilson annotation scheme.
+
+* Process: replacing a set of docs you dont understand by a number you dont understand doesnt help.
+
+* Future: Which thir partier count as trusted third parties? how granular should trust cues be? (pass or fails, ribbon diagrams), which users want to be more informed and which consumers want a simpel trust
+
+
+
+
