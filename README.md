@@ -423,7 +423,7 @@ Royal Society, UK (@RoyalSociety).
 
 * tensions: benefits and risks in data use. 4 tensions: making use of data vs respecting spheres of privacy. providing ways to exercise reasonable control over data vs encouraging data sharing for private and public benefit. incentivising innovative uses of data vs ensuring that such data can be traded and transferred in mutually beneficial ways. promoting and distributing the benefits of data use fairly across society vs ensuring acceptable levels of risk for individuals and communities.
 
-* Role of PETs in addressing tensions. 
+* Role of PETs in addressing tensions. there was no tech that could address and manage all of these tensions. it's quite context dependent. many combined may be needed. More in the report. there may be differnt stages of the process and reasons of why how to manage these tensions. 5 different techs (incomplete, but these are the one reported because they seem most interested coming from  different fields like crypto people or stats people, etc). Addressing tension 2: personal data stores, apps that provide individuals with access and control over the data they generate, covered by the first talk in this session. Tension 1 + 2: homomorphic encryption and trusted execution environments (secure hardware). Tension 3: secure multi party computation> computing on combined data with no need for a trusted third party nor revealing own private input.
 
 * Limitations: current technical constraints, and general limits in PETs deliverings ethical use of data
 
