@@ -333,12 +333,37 @@ disaster prevention, and climate change"; Yasushi Sato* - Niigata University, Ke
 
 * Conclusions. each policy field can learn from other fileds in endeavoring to incorporate the data-oriented approach into risk management policy- making. In the field of climate change, the data oriented and mech oriented approaches have been integrated in relatively matured ways. as the data oriented aproach is incorporated into the process of policy making, mechanisms for collaboration among diverse types of scientistis and policy makers as well as communication with the public, is needed.
 
+* the distinction between data-oriented approach and model-oriented approach is not always clear cut.
 
+* how do we implement these science-based knowledge into action for climate change? adaptation has been important for climate change in the last 15 years. In Japan, this is true in the last few years, mostly in the last year. To implement the policies trust and downscaling the info to local places from trusted sources. How do you enforce mitigation, though? 
 
+[122] "WHO’s transformation changing generation and use of health data to drive impact of policy actions"; Doo Hee You*, Tina Purnat and Samira Asma - World Health Organization, Switzerland (@WHO).
 
-[122] "WHO’s transformation changing generation and use of health data to drive
-impact of policy actions"; Doo Hee You*, Tina Purnat and Samira Asma - World
-Health Organization, Switzerland (@WHO).
+Data analytics and delivery for impact
+
+What has been donw by WHO in the flow of the data process to make the max impact of policy making actions
+
+1. what has been donw by UN and who general programme of work. #globalgoals SDGs and health related goals have put a demand on production of reliable health data, much of which who is a custodian of. 17 indicators, poverty hunger, health quality of education, gender equality, jobs. For the countries to informs their policy making with best evidence, they neeed stronger and coordinated info systems for healt. see un and sdg website. who looks into de public health data.
+
+* WHO director general 2019-2023 goal is to ensure> a billion more people have universal health coverage. a billion more people are protected from health emergencies and a further billion are living with better health and wellbeing.
+
+* 46 targets and indicators including all meta data and data collected in the who website. those targets will be used to calculate the advance towards the goals. overarching goal, measured by healthy life expectancy (HALE). all of this globally.
+
+* Why WHO reforms? to empower member states and catalyze change so taht data and health info are used systematicllay and effectively to set measurable goals, drive continuous helath improvement and impact policy and progrmme change. Process> regional consultations, online sonsultation and mission briefings. Feedback> reducte reporting burden on countries, disaggregate data to report on inequalities (to better target interventions), support country capacity and sustainable systems
+
+* WHO is> filling data gaps (provide tools for surveys, health info systems), modernizing data flow and delivering for impact.
+
+* Some high income cuntries such as canada or australia, western europe are not reporting data because likely that is not a problem for them. but this does not allow this approach to be global. likely they are autosufficient. on the other hand there are countries that the capacity is not available. WHO is trying to address both ends of the spectrum.
+
+* Modernize data flow. until now it is done through email with excel or a link when the data is very big. the workflow right now is old and has a high area for improvement.
+
+* Delivery for impact. Innovative concept and comitment. Frequent follow up and evaluation for country policy dialogue partnering. Developing and innovative process the way it uses data in its work and governance. it is the first UN agency and one of the oldest that tries such a major comprehensive change. 
+
+* Future. need for better operation and health data utilization. achieving impact in countries, bringing the work of who closer to the country office. being more agile in response to change. satify member states demand on higher transparency of who work and actions such as sharing the code.
+
+* Inputs? ddi@who.int
+
+* What incentives are you giving to self suficient countries? no simple answer.
 
 
 
