@@ -216,7 +216,7 @@ Empowering people through informed consent. Informed consent and trust / Tessa D
 
 ## Afternooon plenary
 
-* EThics in AI by TutiIEAI
+* Keynote - Ethics of AI and autonomoous decision making - Christoph Luetge, Technial University of Munich @chluetge
 
 Opportunities of AI / telefmedicne. Rural depopulation and hecne rural services. uneven distribution of physicinas
 
@@ -290,12 +290,11 @@ Challenges of AI:
 
 * Trust in AI is key. more research, more data to assess algos impact, rething the human/machine collaboration instead of AI replacin humnas, guidelines and frameworks for ethical AI. Tools for companines to follow ethical frameworks and establish tructs. Focus on meeting societal acceptance.
 
-* 
+* Q: how all of this gets to gobernment? well, we still have to have that convo. we've been working on it a lot, but we have to keep working on it and have a lot of conversations still for this to get to government
+
+* There is a lot of nuance that goes into privacy and the use of data. It is not the same that the gob uses, for example, Alexa data for a service than to solve a crime. We may get to Alexa data to solve the crime, but not otherwise. We need to be more creative and think hard about nuances.
 
 
-
-
-))
 
 
 
