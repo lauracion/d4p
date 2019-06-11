@@ -399,28 +399,51 @@ Bologna and University of Luxembourg, Italy (@uni_lu_FDEF & @unibomagazine).
 
 [85] "Towards Citizens’ Control Over Data? Exploring Contradictory Trends in the Emerging Regulatory Environment of Personal Data"; Arne Hintz (@arne_hz) - Cardiff University, UK (@cardiffuni).
 
+* Broad strokes of policy trends from DAta Justice Labe, exploring social justice in an age of datafication.
 
+* Policy frameworks for digital platforms moving from openness to inclusion. The explotation use of data has gone too far (eg cambridge analytica), personal data should be respected and used appropriately.
+
+* Data policies project. investigates trends in policy change, citizen oriented policy frameworks, focus on uk and EU> national law and regional regulations like gdpr.
+
+* Methods> document analysis> review of academic lit, stakeholder statements, interviews with stakeholders> government, business, and civil society
+
+* People's control over data? user empowerment> info rights * like right to explanation(, access rights and data portability, consent requirements. Protections and restrictions of explotation of peoples data> purpose limitation, restrictions to profiling and automated decision making. data collection> data retention, communications interception, internet connection records, age verification, data sharing... all are expanding.
+
+* so on one hand we must increase control and user empowermentt vs increase in institutional data collection and sharing. This is not only happenning int eh EU, Australia too for instance.
+
+* components of citizen oriented data policy. Regulate data collection vs regulate uses< restricting collection remains crucial. User empowerment vs legal restrictions< informed user is unrealistic scenario, cant be core of data policy as research has repeatedly shown (eg consent fallacy, consent is disempowering rather than impowering - digital resignation). Types of data regulated: inferred/derived data. focus on personal data is *not* enough. inferred data will be increasingly the focus of data policy. Individual vs collective data: models for collective data control.
+
+* towards democratic auditing: civic particpation in the scoring society. current research just starting. will talk about it next year.
 
 
 [98] “The role of technology in governance: the example of Privacy Enhancing Technologies”; Natasha McCarthy* (@ntshmccrthy) and Franck Fourniol - The
 Royal Society, UK (@RoyalSociety).
 
+* based a reports published recently. 
+
+* tensions: benefits and risks in data use. 4 tensions: making use of data vs respecting spheres of privacy. providing ways to exercise reasonable control over data vs encouraging data sharing for private and public benefit. incentivising innovative uses of data vs ensuring that such data can be traded and transferred in mutually beneficial ways. promoting and distributing the benefits of data use fairly across society vs ensuring acceptable levels of risk for individuals and communities.
+
+* Role of PETs in addressing tensions. 
+
+* Limitations: current technical constraints, and general limits in PETs deliverings ethical use of data
+
+* Enabling appropriate uptake and development of PETs
 
 
 Wednesday, 12 June 2019
 
 09:30 – 10:30 Parallel Session 4
-Session 4a (JBR): Hands-on-Data: Artificial intelligence for the design of public policy in
-Latin America
+Session 4a (JBR): Hands-on-Data: Artificial intelligence for the design of public policy in Latin America
 Chair: Tom Smith (@_datasmith), Office for National Statistics, UK (@DataSciCampus)
-[80a] "Hands-on-Data: Description, lessons learned, and future directions of a
-speedy alternative to integrate artificial intelligence into the design of public
-policies in Latin America"; Lucila Berniell* (@luberniell), Laura Acion
-(@_lacion_) and Walter Sosa-Escudero (@wsosaescudero) - CAF, CONICET-UBA
-and Fundación Sadosky, CONICET-UdeSA, Argentina (@funsadosky &
-@institcalculo).
-[80b] "Computing accessibility metrics for Argentina", Carlos Sarraute
-(@ch4rleston) - Grandata, Argentina (@GrandataLabs).
-[80c] "Using data science to improve public transport in the city of Córdoba
-(Argentina)"; Andres Vazquez (@avdata99) - Municipality of Cordoba,
+
+
+[80a] "Hands-on-Data: Description, lessons learned, and future directions of a speedy alternative to integrate artificial intelligence into the design of public policies in Latin America"; Lucila Berniell* (@luberniell), Laura Acion (@_lacion_) and Walter Sosa-Escudero (@wsosaescudero) - CAF, CONICET-UBA and Fundación Sadosky, CONICET-UdeSA, Argentina, respectively (@funsadosky & @institcalculo).
+
+
+[80b] "Computing accessibility metrics for Argentina", Carlos Sarraute (@ch4rleston) - Grandata, Argentina (@GrandataLabs).
+
+
+[80c] "Using data science to improve public transport in the city of Córdoba (Argentina)"; Andres Vazquez (@avdata99) - Municipality of Cordoba,
 Information Systems and Innovation, Argentina (@MuniCba).
+
+
