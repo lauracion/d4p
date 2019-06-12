@@ -487,3 +487,31 @@ Chair: Tom Smith (@_datasmith), Office for National Statistics, UK (@DataSciCamp
 Information Systems and Innovation, Argentina (@MuniCba).
 
 
+Session 6a (JBR): Successful Uses of Data Science and AI for Public Good
+Chair: Dave Johnson (@New_To_Dave), Office for National Statistics, UK
+
+[6] "Identifying AI talents within LinkedIn database A machine learning approach"; Thomas Roca (@Thomas_Roca) - LinkedIn (@LinkedIn)
+
+* bringing evidence to the debate of use of AI. methods: a needly in teh haystack + results
+
+* a nontrivial problemk, identifying ai talents in linkedin. stadndard approach in the econocimi grafph is to relly on keywords search, skills, or standardized info. but ai i not a job, it is a broad nonstandard field. and ai is trendy and all tah glitters is not gold> needle in a haystack.
+
+* how to capture ai related workforce hidden inlinkedin. Kywords like ai or machine learning triggers profiles such as> ai an ml recruiters, solution sellers, data scientistis managers etc
+
+* MLfor text classification. assumptions> with generic keywords we capture more than the actual ai practitionners poppulation. to us ml a traninng set is needed. job offers are good proxies for member profiles. job offers provide a more consistente triptych @job title, job description, associated skills@ vs members profiles.
+
+* ML for text classification. procedure> 1st capture ai relted workforce broadly, using keywords search. 2nd filter the results using a ml model trained with characteristics extracted from job advertisements. the training set included ai and not ai categories to be able to sort out people working in ai and others. All the details of the methods in the paper uploaded to Zenodo. This was done for the EU and it will be published in september.
+
+
+[70] (Demo) "RIS3-MCAT – a science and technology semantic mapping platform
+supporting specialisation, research and innovation policy and Sustainable
+Development Goals roadmapping in Catalonia"; Enric Fuster* (@enric_fuster) -
+SIRIS Academic, Spain (@sirisAcademic), Tatiana Fernandez - Generalitat de
+Catalunya, Spain, Francesco Massucci, Alessandro Mosca, Arnau Quinquillà,
+Xavier Gimenez and Guillem Rull - SIRIS Academic, Spain.
+[94] "Detecting Areas of Potential High Prevalence of Chagas in Argentina";
+Antonio Vazquez Brust, Tomas Olego, German Rosati, Carolina Lang, Guillermo
+Bozzoli - Fundación Bungey Born, Argentina, Diego Weinberg - Fundación
+Mundo Sano, Argentina, Roberto Chuit – Academia Nacional de Medicina,
+Argentina, Martin Minnoni and Carlos Sarraute* (@ch4rleston) - Grandata,
+Argentina (@GrandataLabs).
