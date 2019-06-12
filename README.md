@@ -522,7 +522,11 @@ Bozzoli - Fundación Bungey Born, Argentina, Diego Weinberg - Fundación Mundo S
 
 * Housing conditions from census data: predominant material of the floors, of the roof exterior - identified the housing conditions that are good for the vector. Added this info to the afinity index
 
-* Health vulnerability> access to health services from the state + socio econommic index of the population. accessibility to hospitals and their life conditions.
+* Health vulnerability> access to health services from the state + socio econommic index of the population. accessibility to hospitals and their life conditions. These two ingridients were added to a chagas potential prevalence index ChPPI to prioritize detection campaings in the field. The index is calculated for each census area. A map is generated with the ChPPI. The prevalence is higher in the  Gran Chaco as expected, but also Tierra del Fuego has higher prevalence than expected.
+
+* Conclusion> heat maps show temperature falling from Gran Chaco outwards. The affinity does not decrease in a continuous gradient as the localities move away from the endemic aread. Localities were detected in the Province of Buenos Aires and Patagonia whose degree of affinity is much higher than population centers in provinces closer to the EA. This suggests the existence of considerable migrations from endemic regions to the highlighted localities.
+
+* Future: detection campaigns in the upcoming years analyzing the maps generated from the data + expert input. The map helped include Patagonia in the cmapaing due to these findings.
 
 
 
