@@ -502,16 +502,45 @@ Chair: Dave Johnson (@New_To_Dave), Office for National Statistics, UK
 
 * ML for text classification. procedure> 1st capture ai relted workforce broadly, using keywords search. 2nd filter the results using a ml model trained with characteristics extracted from job advertisements. the training set included ai and not ai categories to be able to sort out people working in ai and others. All the details of the methods in the paper uploaded to Zenodo. This was done for the EU and it will be published in september.
 
+* the data will be public with a website when the report is launched in september
 
-[70] (Demo) "RIS3-MCAT – a science and technology semantic mapping platform
-supporting specialisation, research and innovation policy and Sustainable
-Development Goals roadmapping in Catalonia"; Enric Fuster* (@enric_fuster) -
-SIRIS Academic, Spain (@sirisAcademic), Tatiana Fernandez - Generalitat de
-Catalunya, Spain, Francesco Massucci, Alessandro Mosca, Arnau Quinquillà,
-Xavier Gimenez and Guillem Rull - SIRIS Academic, Spain.
-[94] "Detecting Areas of Potential High Prevalence of Chagas in Argentina";
-Antonio Vazquez Brust, Tomas Olego, German Rosati, Carolina Lang, Guillermo
-Bozzoli - Fundación Bungey Born, Argentina, Diego Weinberg - Fundación
-Mundo Sano, Argentina, Roberto Chuit – Academia Nacional de Medicina,
-Argentina, Martin Minnoni and Carlos Sarraute* (@ch4rleston) - Grandata,
-Argentina (@GrandataLabs).
+
+[70] (Demo) "RIS3-MCAT – a science and technology semantic mapping platform supporting specialisation, research and innovation policy and Sustainable
+Development Goals roadmapping in Catalonia"; Enric Fuster* (@enric_fuster) - SIRIS Academic, Spain (@sirisAcademic), Tatiana Fernandez - Generalitat de
+Catalunya, Spain, Francesco Massucci, Alessandro Mosca, Arnau Quinquillà, Xavier Gimenez and Guillem Rull - SIRIS Academic, Spain.
+
+
+
+[94] "Detecting Areas of Potential High Prevalence of Chagas in Argentina"; Antonio Vazquez Brust, Tomas Olego, German Rosati, Carolina Lang, Guillermo
+Bozzoli - Fundación Bungey Born, Argentina, Diego Weinberg - Fundación Mundo Sano, Argentina, Roberto Chuit – Academia Nacional de Medicina, Argentina, Martin Minnoni and Carlos Sarraute* (@ch4rleston) - Grandata, Argentina (@GrandataLabs).
+
+* Chagas Disease. Inspiration: John Snow cholera cases map in 1854. pioneer data viz. chagas is a neglected tropical disease affecting 65 M people exposed in more than 21 Latin American countries. It has a long asymptomatic phase. You can have the parasite for 20 years wo presenting any symptoms. The vector is the kissing bug. In Argentina you find Chagas in the Gran Chaco with 1 to 2 M people infected (little stats... 1 M dif between those). Only 30% of all infected wil develop severe heart disease. Gran Chaco is a rainforest, of poor people in the North of the country with little attention from the government.
+
+* There is transmision from mother to child. Focus of the foundation funding this work now. It can be avoided but there is lack of official stats an publci detection capigns. So it is necessary to know where the people infected live to do something.
+
+* Afinity index. Used Mobile Phone data anonymized call detail records from one national telco tha covers 5 months of data. First the residence location of user. Then the communications with endemic users. Heat maps are generated at the antenna levels. The color depends on the use of antenna for the subjects that interact with the Gran Chaco. You can map the amount of interaction between subjects in the Gran Chaco all over in Argentina. This helps identifying areas that are not covered by campaings for Chagas such as Patagonia that is very far away from Gran Chaco and does not have the vector.
+
+* Housing conditions from census data: predominant material of the floors, of the roof exterior - identified the housing conditions that are good for the vector. Added this info to the afinity index
+
+* Health vulnerability> access to health services from the state + socio econommic index of the population. accessibility to hospitals and their life conditions.
+
+
+
+15:35 – 16:45 Plenary Session (JBR) “Sustainable Innovation in the Public/Government Sector” – supported by UCL Digital Ethics Forum
+Chair: Barbara Ubaldi (@BarbaraUbaldi), OECD, Paris (@OECD)
+
+Speakers:
+Diego Kuonen (@DiegoKuonen), Universite de Geneve, Switzerland
+
+Julia Stoyanovich (@stoyanoj), New York University (@NYUTandon & @NYUDataScience,)
+
+Nicholas Wright (@nicholasdwright), UCL and Georgetown University (@Georgetown)
+
+Natasha McCarthy (@ntshmccrthy), The Royal Society, UK (@RoyalSociety)
+
+Lee Rowley MP (@Lee4NED) All Party Parliamentary Group on Data Analytics, UK (@DataAPG)
+
+16:45 – 17:00 Closing Remarks (JBR)
+Lee Rowley MP (@Lee4NED), All Party Parliamentary Group on Data Analytics
+Stefaan Verhulst (@sverhulst), GovLab, New York University
+Zeynep Engin (@zeynepengin), UCL and Data for Policy
