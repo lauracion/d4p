@@ -436,6 +436,41 @@ Royal Society, UK (@RoyalSociety).
 
 Wednesday, 12 June 2019
 
+11:00 – 12:00 Keynote Lecture 2 (JBR)
+"How to tell when a tech is not ready for government" – supported by GovTech Lab
+Jon Crowcroft (@tforcworc), University of Cambridge (@Cambridge_Uni) & Alan Turing Institute (@turinginst)
+Chair: Innar Liiv (@innarliiv), Tallinn University of Technology, Estonia (@TallinnTech)
+GovTech Lab (@GovTechLab) Introduction – Tom Wilkinson (DFID) and Giles Pavey (Unilever)
+
+* super provocative keynote with a lot of hot points about "established truth"
+
+* usually, obviously, whenthe governments not ready for tech. but more seriously techno optimist oversell readiness (eg internet 1980 versus web 1992, broadband access 2000 vs smart phone 2007, use of internet for hospital booking reminders - still not used, using sms now, the right tech; use of babylon systems for triasge 2018, wellbeing/ fitness dat from accelerometer, when?; nhs supply like pharma or dressings chains, when? All of that was supposed to be *fast*. 
+
+* Ancient history> internet, email available & negotiable ; payment & funds txfer, paypal, musk was the first 1; web> transparency, publishing transport, energy, crime data; cloud affordable compute&analytics, but late to the game.
+
+* With examples from dlt, ml&ai,iot. 1. distributed ledger technology, 2 machine lerninng and ai, 3 internet of things. For people interested in sustainability, none of these technologies were sustainanble when they started for many reasons, including legal reasons. Machine learning can be sustainable, but its more advanced techniques like deep learning are not that sustainable, it requires tons of tagged data and tons of processing gpus, with a large carbon print. It does not escalate to public policy... imagine increasing the carbon footprint while modeling climate for instance...
+
+* IoT can be a massive fail in many places - heard about printer setup? what hope can we have with coffee machines hooked to the internet when sometimes even the internet may not get a good signal. somehow some people are finding ways to make realiable things work worse than now by including internet in them.
+
+* dlt. do not mix up cryptocurrency and blockchain. immutable record of transations, but so is a database. samart contracts, but so was ecommerce. why not gov? 3 essential requirements, decentralised? nope. no single point of trust? nope Long term persistent? maybe
+
+* dlt #2. ask someone peddling blockchain: what transaction rate do you support (read/write)?, what is the latency per transaction commit? where is your open source/spec repo? If government is ready for the huge numbers that different use cases can generate, then it is ready...
+
+* ml/ai. do not mix up ml and ai. ml is just better stats with bigger faster compute/storage, please use, more! Already used in much gov. but what of ai, anything that isn't explainable. how would gov use black boxes (#rant about deep learning, of course :-D ), ever, pray? The first implementation of MCMC was 75 years ago, AI? hmmm, nothing new under the sun, or at least not so many things are that new after all.
+
+* putting technology into work that can harm people (eg false positives in sentencing) is something to take into account for readiness.
+
+* ml/ai. ask an ai peddler> what's your interpretability model? how did you de bias your training data (gem: "try sending white people to jail and see what happens with bias" )? where are your reprodicability (reproducibility + replicability - brilliant) results? if all of these can be answer, the tech may be ready for gov. otherwise, not a great idea.
+
+* IoT. do not mix up internet (of things) and smart X. for x = home, car, city. Most IoT systems are silos, cctv, smart meter, fitness monitor&actuator; for good reasons, not just privacy, *safety* is paramount  - car brakes, defibrilator, etc. What would gov do: regulate safety, please... eg liability if dont match MUDs, require data minimisation
+
+* IoT#2. Ask to IoT dealer> where are your product liability statements? waht are the published APIs for me to integrate with other IoT products? What are your software update&suppport plans 6-10 years now for any current product? OMG, compatibility! Sustainability over time... imaginge your washing machine hacked.
+
+* generic gov tech lessons. dont listen to academics, massively too early. dont listen to industry, massively too late. especially dont listen to consultants, massively too expensive. _so who do you listen to? all of the above, with a pinch of salt._ hire a lot of people with different literacy on computer, stats, security, and domain experts too. 
+
+
+
+
 09:30 – 10:30 Parallel Session 4
 Session 4a (JBR): Hands-on-Data: Artificial intelligence for the design of public policy in Latin America
 Chair: Tom Smith (@_datasmith), Office for National Statistics, UK (@DataSciCampus)
