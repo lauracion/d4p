@@ -471,6 +471,7 @@ GovTech Lab (@GovTechLab) Introduction – Tom Wilkinson (DFID) and Giles Pavey 
 
 
 
+
 09:30 – 10:30 Parallel Session 4
 Session 4a (JBR): Hands-on-Data: Artificial intelligence for the design of public policy in Latin America
 Chair: Tom Smith (@_datasmith), Office for National Statistics, UK (@DataSciCampus)
