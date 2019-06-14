@@ -5,7 +5,7 @@
 Session 4a (JBR): Hands-on-Data: Artificial intelligence for the design of public policy in Latin America
 Chair: Tom Smith (@_datasmith), Office for National Statistics, UK (@DataSciCampus)
 
-Slides for these four talks can be found [here]()
+Slides for these four talks can be found [here](https://docs.google.com/presentation/d/1ZEwh0_R-zg9hu07qNerlrojNo2N5tfBWxxnyWfCmID4/edit?usp=sharing)
 
 [80a] "Hands-on-Data: Description, lessons learned, and future directions of a speedy alternative to integrate artificial intelligence into the design of public policies in Latin America"; Lucila Berniell* (@luberniell), Laura Acion (@_lacion_) and Walter Sosa-Escudero (@wsosaescudero) - CAF, CONICET-UBA and Fundación Sadosky, CONICET-UdeSA, Argentina (@funsadosky & @institcalculo).
 
