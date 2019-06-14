@@ -64,6 +64,10 @@ Instructors: Gefion Thuermer (@GefionT), Johanna Walker; University of Southampt
 
 * Follows nicely with the previous workshop, but it is independent. More practical. Includes success cases and tips for sharing data
 
+* Data Sharing Workshop Resources & Glossary can be found [here](https://github.com/lauracion/d4p/blob/master/Data%20Sharing%20Workshop%20Resources%20%26%20Glossary.pdf)
+
+* Slides summarized in the following notes can be found [here](https://github.com/lauracion/d4p/blob/master/Data%20Sharing%20%26%20Data%20Trusts%20Workshop%20(Shared).pdf)
+
 ##### Session 1: Why is data sharing important? - Johanna Walker
 
 * Motivation for a data sharing economy: "data economy may increase to 739 billion euros by 2020"
